@@ -161,7 +161,7 @@ if cardCode == "Key_395536787b65446c954a" then-- ""内设置您的卡密
     CorrectIncorrectImageLabel:TweenSize(UDim2.new(0, 0, 0, 0),"In","Quad",0.2,true)
     wait(3)
     CardSystemScreenGui:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drop56796/TraumaHub/Fragmented-DarkNightmarw/Freagmented%20Darkness%20(Make%20with%20in%20github).lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Drop56796/Trauma-Hub-Pro/Trauma-Hub-Pro/Trauma%20Hub%20Pro.lua"))()
       输入你的代码到这里
 else
     ResultLabel.Text = "key is not compatible"
